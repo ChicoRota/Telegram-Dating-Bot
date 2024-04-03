@@ -1,0 +1,11 @@
+{
+  "name": "telegram_dating_bot",
+  "version": "1.0.0",
+  "description": "Meet your perfect match effortlessly with Cupid's Assistant, the ultimate dating bot for Telegram! Say goodbye to endless swiping and dull conversations, and hello to meaningful connections and romantic possibilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chico",
+  "license": "ISC"
+}
